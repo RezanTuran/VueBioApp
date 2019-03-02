@@ -1,0 +1,73 @@
+{
+    "movies":[
+        {"id": "avatar"},
+        {"id": "the expendables2"},
+        {"id": "johnwick2"},
+        {"id": "bladerunner"},
+        {"id": "thelasthouseon theleft"},
+        {"id": "JonnyEnglihs"}
+    ],
+    "avatar":[
+        {"id":"A1", "seated": true, "price":120},
+        {"id":"A2", "seated": false, "price":120},
+        {"id":"A3", "seated": false, "price":120},
+        {"id":"A4", "seated": false, "price":120},
+        {"id":"A5", "seated": false, "price":120},
+        {"id":"A6", "seated": false, "price":120},
+        {"id":"B1", "seated": true, "price":200},
+        {"id":"B2", "seated": false, "price":200}
+    ],
+    "the expendables2":[
+        {"id":"A1", "seated": false, "price":120},
+        {"id":"A2", "seated": false, "price":120},
+        {"id":"A3", "seated": false, "price":120},
+        {"id":"A4", "seated": false, "price":120},
+        {"id":"A5", "seated": false, "price":120},
+        {"id":"A6", "seated": false, "price":120},
+        {"id":"B1", "seated": false, "price":120},
+        {"id":"B2", "seated": false, "price":120}
+    ],
+    "johnwick2":[
+        {"id":"A1", "seated": false, "price":120},
+        {"id":"A2", "seated": false, "price":120},
+        {"id":"A3", "seated": false, "price":120},
+        {"id":"A4", "seated": false, "price":120},
+        {"id":"A5", "seated": false, "price":120},
+        {"id":"A6", "seated": false, "price":120},
+        {"id":"B1", "seated": false, "price":120},
+        {"id":"B2", "seated": false, "price":120}
+    ],
+    "bladerunner":[
+        {"id":"A1", "seated": false, "price":120},
+        {"id":"A2", "seated": true, "price":120},
+        {"id":"A3", "seated": false, "price":120},
+        {"id":"A4", "seated": false, "price":120},
+        {"id":"A5", "seated": true, "price":120},
+        {"id":"A6", "seated": false, "price":120},
+        {"id":"B1", "seated": false, "price":120},
+        {"id":"B2", "seated": true, "price":120},
+        {"id":"B3", "seated": false, "price":120},
+        {"id":"B4", "seated": false, "price":120},
+        {"id":"B5", "seated": true, "price":120}
+    ],
+    "thelasthouseon theleft":[
+        {"id":"A1", "seated": false, "price":120},
+        {"id":"A2", "seated": false, "price":120},
+        {"id":"A3", "seated": false, "price":120},
+        {"id":"A4", "seated": false, "price":120},
+        {"id":"A5", "seated": false, "price":120},
+        {"id":"A6", "seated": false, "price":120},
+        {"id":"B1", "seated": false, "price":120},
+        {"id":"B2", "seated": false, "price":120}
+    ],
+    "JonnyEnglihs":[
+        {"id":"A1", "seated": false, "price":120},
+        {"id":"A2", "seated": true, "price":120},
+        {"id":"A3", "seated": false, "price":120},
+        {"id":"A4", "seated": true, "price":120},
+        {"id":"A5", "seated": false, "price":120},
+        {"id":"A6", "seated": true, "price":120},
+        {"id":"B1", "seated": true, "price":120},
+        {"id":"B2", "seated": true, "price":120}
+    ]
+}   
